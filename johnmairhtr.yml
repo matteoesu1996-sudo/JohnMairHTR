@@ -1,0 +1,26 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: JohnMairHTR
+url: https://github.com/matteoesu1996-sudo/JohnMairHTR
+authors: []
+institutions: []
+description: '-'
+language:
+  - lat
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-typed
+time:
+  notBefore: '1529'
+  notAfter: '1529'
+hands:
+  count: '1'
+  precision: exact
+license:
+  name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+volume:
+  - metric: pages
+    count: 700
